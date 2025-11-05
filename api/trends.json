@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T20:21:34.575163+08:00",
-  "total_titles_processed": 1863,
+  "generated_at": "2025-11-05T21:26:38.612790+08:00",
+  "total_titles_processed": 1965,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时26分 ~ 20时21分]"
+          "appearance_count": 16,
+          "time_info": "[10时26分 ~ 21时26分]"
         },
         {
           "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
@@ -36,11 +36,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时14分 ~ 20时21分]"
+          "appearance_count": 9,
+          "time_info": "[16时14分 ~ 21时26分]"
         },
         {
           "title": "最高法院周三见分晓，特朗普关税命运系于其亲手任命的三位大法官",
@@ -306,6 +307,19 @@
           "time_info": "[03时10分 ~ 04时12分]"
         },
         {
+          "title": "奥巴马为何高调对特朗普发难",
+          "url": "https://www.toutiao.com/trending/7569156347464257074/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时09分 ~ 21时26分]"
+        },
+        {
           "title": "内塔尼亚胡因涉嫌受贿受审，特朗普：美国将出手干预帮他脱身",
           "url": "https://m.thepaper.cn/newsDetail_forward_31886729",
           "source": "澎湃新闻",
@@ -328,18 +342,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时12分 ~ 16时15分]"
-        },
-        {
-          "title": "奥巴马为何高调对特朗普发难",
-          "url": "https://www.toutiao.com/trending/7569156347464257074/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时09分 ~ 20时21分]"
         },
         {
           "title": "美国总统特朗普：（谈加州选区重划）违宪投票是一场巨大的骗局。所有邮寄选票正接受非常严肃的法律和刑事审查。",
@@ -608,7 +610,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -618,8 +620,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时47分 ~ 20时21分]"
+          "appearance_count": 17,
+          "time_info": "[08时47分 ~ 21时26分]"
         },
         {
           "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -697,7 +699,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         },
@@ -871,9 +873,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
+        },
+        {
+          "title": "敏感时刻，美股警报连连！著名估值指标“史上第二次”突破红线，上一次是1999年",
+          "url": "https://wallstreetcn.com/articles/3758685",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
+        },
+        {
+          "title": "麦当劳第三季度营收70.8亿美元，预估71亿美元。 第三季度调整后每股收益3.22美元，预估3.32美元。 第三季度每股收益3.18美元，上年同期3.13美元。 麦当劳仍然预测全年资本支出30亿美元至32亿美元，市场预估30.6亿美元。 麦当劳美股盘前跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/2999898",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
         },
         {
           "title": "美股收盘：百度涨超3%",
@@ -918,6 +942,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
+        },
+        {
+          "title": "美国银行(BAC.N)美股股价盘前跌1.9%。",
+          "url": "https://flash.jin10.com/detail/20251105204332629800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
         },
         {
           "title": "行业ETF美股盘初普遍下跌，半导体ETF大跌2.32%，全球科技股指数ETF跌2.16%，科技行业ETF跌2.13%，网络股指数ETF跌1.76%，能源业ETF跌1.75%。",
@@ -1280,8 +1315,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时09分 ~ 20时21分]"
+          "appearance_count": 3,
+          "time_info": "[19时09分 ~ 21时26分]"
         },
         {
           "title": "投资者重新估值AI市场，美债收益率普遍跌超2个基点",
