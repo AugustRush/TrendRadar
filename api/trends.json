@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T20:18:54.723013+08:00",
-  "total_titles_processed": 1873,
+  "generated_at": "2025-11-07T21:23:27.758731+08:00",
+  "total_titles_processed": 1961,
   "failed_sources": [],
   "trends": [
     {
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时11分 ~ 20时18分]"
+          "appearance_count": 9,
+          "time_info": "[15时11分 ~ 21时23分]"
         },
         {
           "title": "特朗普：佩洛西退休对美国是大好事，她是个邪恶的女人",
@@ -291,6 +291,17 @@
           "time_info": "[11时39分 ~ 12时15分]"
         },
         {
+          "title": "拉美领导人在COP30集体开喷，哥伦比亚总统：特朗普反人类",
+          "url": "https://news.ifeng.com/c/8o5WciamJwF",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时09分 ~ 21时23分]"
+        },
+        {
           "title": "特朗普就美高院激辩关税表态",
           "url": "https://www.toutiao.com/trending/7569800305303359018/",
           "source": "今日头条",
@@ -316,6 +327,19 @@
           "time_info": "[14时17分 ~ 16时16分]"
         },
         {
+          "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时09分 ~ 21时23分]"
+        },
+        {
           "title": "特朗普官宣降价 药企高管当场晕倒",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%98%E5%AE%A3%E9%99%8D%E4%BB%B7+%E8%8D%AF%E4%BC%81%E9%AB%98%E7%AE%A1%E5%BD%93%E5%9C%BA%E6%99%95%E5%80%92",
           "source": "百度热搜",
@@ -326,17 +350,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时13分 ~ 19时09分]"
-        },
-        {
-          "title": "拉美领导人在COP30集体开喷，哥伦比亚总统：特朗普反人类",
-          "url": "https://news.ifeng.com/c/8o5WciamJwF",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时09分 ~ 20时18分]"
         },
         {
           "title": "诺和诺德：与特朗普达成的协议将按更低的成本向更大范围的美国民众提供GLP-1s减肥药。",
@@ -563,18 +576,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时12分 ~ 05时09分]"
-        },
-        {
-          "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时09分 ~ 20时18分]"
         },
         {
           "title": "特朗普在与中亚领导人共进晚餐时发表讲话称，加强与中亚的经济伙伴关系，关键矿产是议程上的关键事项；更多的国家将加入亚伯拉罕协议。",
@@ -1184,8 +1185,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时27分 ~ 20时18分]"
+          "appearance_count": 16,
+          "time_info": "[10时27分 ~ 21时23分]"
         },
         {
           "title": "机器人工业场景加速推进，测量机“卖爆了” 王兴兴现身谈具身智能的“ChatGPT”时刻",
@@ -1283,7 +1284,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
         },
@@ -1312,8 +1313,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时47分 ~ 20时18分]"
+          "appearance_count": 17,
+          "time_info": "[08时47分 ~ 21时23分]"
         },
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
@@ -1497,8 +1498,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[06时11分 ~ 20时18分]"
+          "appearance_count": 19,
+          "time_info": "[06时11分 ~ 21时23分]"
         },
         {
           "title": "如何评价 gemini-3-pro-preview-11-2025？",
@@ -1563,7 +1564,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
         },
@@ -1574,7 +1575,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
         },
@@ -1585,7 +1586,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
         }
