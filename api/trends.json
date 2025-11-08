@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T12:12:25.135207+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2025-11-08T13:12:13.812429+08:00",
+  "total_titles_processed": 981,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
@@ -65,8 +65,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时24分 ~ 12时12分]"
+          "appearance_count": 5,
+          "time_info": "[10时24分 ~ 13时12分]"
         },
         {
           "title": "美国总统特朗普：将与匈牙利总理欧尔班讨论贸易、能源和乌克兰问题。",
@@ -80,29 +80,58 @@
           "time_info": "02时14分"
         },
         {
-          "title": "美最高法院允许特朗普政府暂不全额发放食品援助金",
-          "url": "https://flash.jin10.com/detail/20251108105346756800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时30分 ~ 12时12分]"
-        },
-        {
           "title": "最高法院暂准特朗普政府官员限制补充营养援助计划（SNAP）的食品援助。",
           "url": "https://wallstreetcn.com/livenews/3001469",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
             13,
-            20
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时24分 ~ 13时12分]"
+        },
+        {
+          "title": "美国法官裁定，特朗普下令国民警卫队前往俄勒冈州波特兰市属非法。",
+          "url": "https://flash.jin10.com/detail/20251108090128912800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            19,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时24分 ~ 13时12分]"
+        },
+        {
+          "title": "特朗普达成减肥药降价计划，“美民众一年将合计减重5600万公斤”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31916480",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时43分 ~ 13时12分]"
+        },
+        {
+          "title": "美最高法院允许特朗普政府暂不全额发放食品援助金",
+          "url": "https://flash.jin10.com/detail/20251108105346756800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            7,
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时24分 ~ 12时12分]"
+          "time_info": "[11时30分 ~ 13时12分]"
         },
         {
           "title": "特朗普称佩洛西在股市“非法敛财”",
@@ -115,19 +144,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时11分 ~ 01时11分]"
-        },
-        {
-          "title": "美国法官裁定，特朗普下令国民警卫队前往俄勒冈州波特兰市属非法。",
-          "url": "https://flash.jin10.com/detail/20251108090128912800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时24分 ~ 12时12分]"
         },
         {
           "title": "美国总统特朗普要求司法部调查众多肉联厂（肉类包装公司）。",
@@ -168,6 +184,19 @@
           "time_info": "[03时09分 ~ 05时05分]"
         },
         {
+          "title": "美最高法院允许特朗普政府暂不全额发放食品援助金",
+          "url": "https://wallstreetcn.com/livenews/3001478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时30分 ~ 13时12分]"
+        },
+        {
           "title": "美国总统特朗普：如果共和党废除阻挠议事（冗长辩论）规则，他们将在未来多年赢得胜利；如果他们不这样做，灾难将不可避免！",
           "url": "https://flash.jin10.com/detail/20251108001852404800",
           "source": "金十数据",
@@ -204,18 +233,6 @@
           "time_info": "[07时10分 ~ 08时43分]"
         },
         {
-          "title": "美最高法院允许特朗普政府暂不全额发放食品援助金",
-          "url": "https://wallstreetcn.com/livenews/3001478",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时30分 ~ 12时12分]"
-        },
-        {
           "title": "美国总统特朗普：考虑在“制裁俄罗斯石油”方面实施豁免。 考虑对匈牙利实施豁免。",
           "url": "https://wallstreetcn.com/livenews/3001347",
           "source": "华尔街见闻-快讯",
@@ -242,16 +259,17 @@
           "time_info": "[10时24分 ~ 12时12分]"
         },
         {
-          "title": "特朗普达成减肥药降价计划，“美民众一年将合计减重5600万公斤”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31916480",
-          "source": "澎湃新闻",
+          "title": "美国最高法院目前允许特朗普政府扣留数十亿美元的食品援助资金。",
+          "url": "https://flash.jin10.com/detail/20251108101917094800",
+          "source": "金十数据",
           "ranks": [
-            20,
-            18
+            9,
+            14,
+            19
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[08时43分 ~ 12时12分]"
+          "time_info": "[11时30分 ~ 13时12分]"
         },
         {
           "title": "美国总统特朗普：期待2026年在美国迈阿密轮值主办二十国集团（G20）峰会。",
@@ -264,18 +282,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时10分 ~ 08时43分]"
-        },
-        {
-          "title": "美国最高法院目前允许特朗普政府扣留数十亿美元的食品援助资金。",
-          "url": "https://flash.jin10.com/detail/20251108101917094800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时30分 ~ 12时12分]"
         },
         {
           "title": "美国总统特朗普：在达成临时开支立法草案之前，参议院成员们都不应该离开华盛顿特区（国会山所在地）。",
@@ -384,6 +390,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时09分 ~ 04时11分]"
+        },
+        {
+          "title": "特朗普下令调查几家最大肉类加工商",
+          "url": "https://www.toutiao.com/trending/7570176156171767346/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时11分 ~ 13时12分]"
         },
         {
           "title": "美国总统特朗普欢迎匈牙利总理访问白宫。",
@@ -580,19 +597,6 @@
           "time_info": "[01时11分 ~ 06时12分]"
         },
         {
-          "title": "市场情绪依然疲弱 美股三大期指继续走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2194710",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时11分 ~ 12时12分]"
-        },
-        {
           "title": "美股收盘：国会消息刺激V型反转 纳指仍创4月以来最大单周跌幅",
           "url": "https://www.cls.cn/detail/2194839",
           "source": "财联社热门",
@@ -602,8 +606,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时10分 ~ 12时12分]"
+          "appearance_count": 7,
+          "time_info": "[07时10分 ~ 13时12分]"
+        },
+        {
+          "title": "市场情绪依然疲弱 美股三大期指继续走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2194710",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时11分 ~ 13时12分]"
         },
         {
           "title": "美政府停摆现转机，美股尾盘拉升，科技股拖累纳指走低，微软八连跌，加密货币大反弹",
@@ -640,6 +657,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时24分 ~ 12时12分]"
+        },
+        {
+          "title": "中信证券：基本面支撑美股韧性 短期扰动难逆上行趋势",
+          "url": "https://flash.jin10.com/detail/20251108100037476800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时30分 ~ 13时12分]"
         },
         {
           "title": "金十图示：2025年11月07日（周五）美股热门股票行情一览（美股收盘）",
@@ -700,18 +730,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时11分 ~ 02时14分]"
-        },
-        {
-          "title": "中信证券：基本面支撑美股韧性 短期扰动难逆上行趋势",
-          "url": "https://flash.jin10.com/detail/20251108100037476800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时30分 ~ 12时12分]"
         },
         {
           "title": "金十图示：2025年11月07日（周五）美股热门股票行情一览（美股盘中）",
@@ -781,11 +799,12 @@
           "ranks": [
             2,
             14,
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时24分 ~ 12时12分]"
+          "appearance_count": 4,
+          "time_info": "[10时24分 ~ 13时12分]"
         },
         {
           "title": "以色列方面称挫败了一起针对其驻墨西哥大使的阴谋，并表示该阴谋“由伊朗指使”。",
@@ -909,11 +928,12 @@
           "url": "https://flash.jin10.com/detail/20251108112121105800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 13时12分]"
         }
       ]
     },
