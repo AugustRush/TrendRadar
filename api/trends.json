@@ -1,12 +1,26 @@
 {
-  "generated_at": "2025-11-09T22:08:42.183547+08:00",
-  "total_titles_processed": 1277,
+  "generated_at": "2025-11-09T23:11:44.881897+08:00",
+  "total_titles_processed": 1346,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
+        {
+          "title": "拜登狠批特朗普",
+          "url": "https://www.douyin.com/hot/2300132",
+          "source": "抖音",
+          "ranks": [
+            1,
+            2,
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时13分 ~ 23时11分]"
+        },
         {
           "title": "SNAP福利60年来首次中断！美最高法院批准特朗普暂扣40亿美元食品援助",
           "url": "https://wallstreetcn.com/articles/3758973",
@@ -34,22 +48,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时13分 ~ 22时08分]"
-        },
-        {
-          "title": "拜登狠批特朗普",
-          "url": "https://www.douyin.com/hot/2300132",
-          "source": "抖音",
-          "ranks": [
-            1,
-            2,
-            4,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时13分 ~ 21时18分]"
+          "appearance_count": 14,
+          "time_info": "[12时13分 ~ 23时11分]"
         },
         {
           "title": "拜登狠批特朗普：让国家蒙羞",
@@ -117,6 +117,18 @@
           "time_info": "[00时10分 ~ 08时48分]"
         },
         {
+          "title": "“特朗普外交政策，万变不离中国”",
+          "url": "https://news.ifeng.com/c/8o8e3UWF1zn",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时11分 ~ 23时11分]"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-08）",
           "url": "https://flash.jin10.com/detail/20251108183318165800",
           "source": "金十数据",
@@ -127,18 +139,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时10分 ~ 08时48分]"
-        },
-        {
-          "title": "“特朗普外交政策，万变不离中国”",
-          "url": "https://news.ifeng.com/c/8o8e3UWF1zn",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时11分 ~ 22时08分]"
         },
         {
           "title": "叙利亚领导人沙拉抵美开启访问，将前往白宫会见特朗普",
@@ -157,6 +157,21 @@
           "time_info": "[17时11分 ~ 22时08分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-09）",
+          "url": "https://flash.jin10.com/detail/20251109183325380800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            2,
+            8,
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时06分 ~ 23时11分]"
+        },
+        {
           "title": "拜登狠批特朗普：让国家蒙羞",
           "url": "https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E7%8B%A0%E6%89%B9%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E8%AE%A9%E5%9B%BD%E5%AE%B6%E8%92%99%E7%BE%9E",
           "source": "百度热搜",
@@ -172,18 +187,19 @@
           "time_info": "[15时10分 ~ 19时06分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-09）",
-          "url": "https://flash.jin10.com/detail/20251109183325380800",
+          "title": "特朗普疑似在新闻发布会上“打盹”的画面引发热议",
+          "url": "https://flash.jin10.com/detail/20251109181932753800",
           "source": "金十数据",
           "ranks": [
-            1,
-            2,
-            8,
-            13
+            3,
+            4,
+            10,
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时06分 ~ 22时08分]"
+          "appearance_count": 5,
+          "time_info": "[19时06分 ~ 23时11分]"
         },
         {
           "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
@@ -195,20 +211,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时10分 ~ 04时12分]"
-        },
-        {
-          "title": "特朗普疑似在新闻发布会上“打盹”的画面引发热议",
-          "url": "https://flash.jin10.com/detail/20251109181932753800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            4,
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时06分 ~ 22时08分]"
         },
         {
           "title": "塞尔维亚拆北约轰炸遗址建特朗普酒店",
@@ -224,15 +226,15 @@
           "time_info": "[13时10分 ~ 16时13分]"
         },
         {
-          "title": "特朗普炮轰美最高法院 为自己的关税政策激烈辩护",
-          "url": "https://flash.jin10.com/detail/20251109213351299800",
-          "source": "金十数据",
+          "title": "哥伦比亚总统警告特朗普和鲁比奥：你们“小心点”。（澎湃）",
+          "url": "https://wallstreetcn.com/livenews/3001704",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时08分"
+          "time_info": "23时11分"
         },
         {
           "title": "特朗普又盯上了美国肉价，“铁拳”挥向四巨头",
@@ -258,6 +260,31 @@
           "time_info": "15时10分"
         },
         {
+          "title": "特朗普：反对关税的人是“蠢材”！美国现在是世界上最富有的国家",
+          "url": "https://flash.jin10.com/detail/20251109203040228800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时18分 ~ 23时11分]"
+        },
+        {
+          "title": "特朗普炮轰美最高法院 为自己的关税政策激烈辩护",
+          "url": "https://flash.jin10.com/detail/20251109213351299800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时08分 ~ 23时11分]"
+        },
+        {
           "title": "拜登狠批特朗普",
           "url": "https://flash.jin10.com/detail/20251109135556039800",
           "source": "金十数据",
@@ -271,16 +298,17 @@
           "time_info": "[15时10分 ~ 17时11分]"
         },
         {
-          "title": "特朗普：反对关税的人是“蠢材”！美国现在是世界上最富有的国家",
-          "url": "https://flash.jin10.com/detail/20251109203040228800",
+          "title": "美国总统特朗普：奥巴马医改“糟透了”，这是价格最高但质量最差的医疗体系。",
+          "url": "https://flash.jin10.com/detail/20251109201626112800",
           "source": "金十数据",
           "ranks": [
-            4,
-            9
+            5,
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时18分 ~ 22时08分]"
+          "appearance_count": 3,
+          "time_info": "[21时18分 ~ 23时11分]"
         },
         {
           "title": "若特朗普关税政策被推翻市场如何反应",
@@ -293,18 +321,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时14分 ~ 15时10分]"
-        },
-        {
-          "title": "美国总统特朗普：奥巴马医改“糟透了”，这是价格最高但质量最差的医疗体系。",
-          "url": "https://flash.jin10.com/detail/20251109201626112800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时18分 ~ 22时08分]"
         },
         {
           "title": "媒体：未经立法，特朗普团队秘密向超级富有企业提供大规模税收减免",
@@ -321,6 +337,19 @@
           "time_info": "[14时14分 ~ 17时11分]"
         },
         {
+          "title": "特朗普：共和党人应废除冗长辩论程序 让政府停摆结束",
+          "url": "https://flash.jin10.com/detail/20251109201217511800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时18分 ~ 23时11分]"
+        },
+        {
           "title": "欧尔班当场挖特朗普“墙脚”",
           "url": "https://www.toutiao.com/trending/7569946456040292378/",
           "source": "今日头条",
@@ -331,18 +360,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时48分 ~ 10时29分]"
-        },
-        {
-          "title": "特朗普：共和党人应废除冗长辩论程序 让政府停摆结束",
-          "url": "https://flash.jin10.com/detail/20251109201217511800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时18分 ~ 22时08分]"
         },
         {
           "title": "拜登强烈批评特朗普称其家族赚了18亿",
@@ -376,6 +393,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
+        },
+        {
+          "title": "美国政府停摆 特朗普享乐被痛批",
+          "url": "https://www.toutiao.com/trending/7569948276263731251/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         }
       ]
     },
@@ -507,11 +535,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时11分 ~ 22时08分]"
+          "appearance_count": 7,
+          "time_info": "[18时11分 ~ 23时11分]"
         }
       ]
     },
@@ -526,11 +555,12 @@
           "ranks": [
             10,
             9,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时11分 ~ 22时08分]"
+          "appearance_count": 7,
+          "time_info": "[18时11分 ~ 23时11分]"
         }
       ]
     },
