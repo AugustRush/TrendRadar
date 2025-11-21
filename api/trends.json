@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-21T17:11:46.751241+08:00",
-  "total_titles_processed": 1650,
+  "generated_at": "2025-11-21T18:11:31.402412+08:00",
+  "total_titles_processed": 1747,
   "failed_sources": [],
   "trends": [
     {
@@ -45,6 +45,18 @@
           "time_info": "[08时45分 ~ 14时16分]"
         },
         {
+          "title": "特朗普批鲍威尔：想立刻炒了你",
+          "url": "https://www.douyin.com/hot/2313190",
+          "source": "抖音",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时16分 ~ 18时11分]"
+        },
+        {
           "title": "报道：特朗普悄然提名枪械管理局局长",
           "url": "https://flash.jin10.com/detail/20251121014055857800",
           "source": "金十数据",
@@ -76,18 +88,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
-        },
-        {
-          "title": "特朗普批鲍威尔：想立刻炒了你",
-          "url": "https://www.douyin.com/hot/2313190",
-          "source": "抖音",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时16分 ~ 17时11分]"
         },
         {
           "title": "美国白宫：特朗普的行政令取消了对巴西牛肉、咖啡和橙汁的进口关税。",
@@ -457,7 +457,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
         },
@@ -547,8 +547,23 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时24分 ~ 17时11分]"
+          "appearance_count": 13,
+          "time_info": "[10时24分 ~ 18时11分]"
+        },
+        {
+          "title": "降息前景存疑！亚太市场追随美股下挫 科技股成重灾区",
+          "url": "https://www.cls.cn/detail/2206941",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时13分 ~ 18时11分]"
         },
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -575,22 +590,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时24分 ~ 17时11分]"
-        },
-        {
-          "title": "降息前景存疑！亚太市场追随美股下挫 科技股成重灾区",
-          "url": "https://www.cls.cn/detail/2206941",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时13分 ~ 17时11分]"
+          "appearance_count": 13,
+          "time_info": "[10时24分 ~ 18时11分]"
         },
         {
           "title": "美股为何巨震暴跌",
@@ -605,6 +606,18 @@
           "time_info": "[12时13分 ~ 16时15分]"
         },
         {
+          "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
+          "url": "https://wallstreetcn.com/articles/3759849",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时16分 ~ 18时11分]"
+        },
+        {
           "title": "美股为何巨震暴跌",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%BA%E4%BD%95%E5%B7%A8%E9%9C%87%E6%9A%B4%E8%B7%8C",
           "source": "百度热搜",
@@ -617,18 +630,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[13时11分 ~ 17时11分]"
-        },
-        {
-          "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
-          "url": "https://wallstreetcn.com/articles/3759849",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时16分 ~ 17时11分]"
         },
         {
           "title": "英伟达(NVDA.O)美股尾盘跌幅扩大至3%。",
@@ -734,6 +735,18 @@
           "time_info": "[06时10分 ~ 07时10分]"
         },
         {
+          "title": "美国消费“凉了”？美股45年来首次出现这一幕……",
+          "url": "https://www.cls.cn/detail/2207216",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时11分 ~ 18时11分]"
+        },
+        {
           "title": "9月非农就业岗位增长超预期，而失业率则升至4.4%，为四年来最高水平。市场押注美联储将在12月会议上按兵不动。美股周四大跌，欧股小幅收涨，现货黄金收跌0.1%，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20251121111212865800",
           "source": "金十数据",
@@ -777,17 +790,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
-        },
-        {
-          "title": "美国消费“凉了”？美股45年来首次出现这一幕……",
-          "url": "https://www.cls.cn/detail/2207216",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时11分"
         },
         {
           "title": "美股高开低走动能迅速消退 降息疑虑与避险情绪笼罩市场",
@@ -1367,8 +1369,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时45分 ~ 17时11分]"
+          "appearance_count": 14,
+          "time_info": "[08时45分 ~ 18时11分]"
         },
         {
           "title": "英伟达业绩驱散悲观情绪，“悲喜交织”就业数据后，美股指数高开高走，美债上扬",
@@ -1453,7 +1455,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
         }
