@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T13:12:13.179767+08:00",
-  "total_titles_processed": 1130,
+  "generated_at": "2025-12-03T14:17:17.810022+08:00",
+  "total_titles_processed": 1222,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时30分 ~ 13时12分]"
+          "appearance_count": 8,
+          "time_info": "[10时30分 ~ 14时17分]"
         },
         {
           "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
@@ -52,8 +52,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时46分 ~ 13时12分]"
+          "appearance_count": 9,
+          "time_info": "[08时46分 ~ 14时17分]"
         },
         {
           "title": "特朗普“点名”日本",
@@ -62,11 +62,12 @@
           "ranks": [
             7,
             4,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时30分 ~ 13时12分]"
+          "appearance_count": 8,
+          "time_info": "[10时30分 ~ 14时17分]"
         },
         {
           "title": "特朗普定档！计划明年初再揭晓美联储新主席人选",
@@ -80,8 +81,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时10分 ~ 13时12分]"
+          "appearance_count": 10,
+          "time_info": "[07时10分 ~ 14时17分]"
         },
         {
           "title": "美国总统特朗普结束在白宫活动上的讲话。",
@@ -599,7 +600,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时12分"
         },
@@ -929,18 +930,6 @@
       "match_count": 16,
       "titles": [
         {
-          "title": "美日政策预期分化，美股指集体高开，金银油回落，加密货币止跌反弹，拍卖需求强劲推高日债",
-          "url": "https://wallstreetcn.com/articles/3760523",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 07时10分]"
-        },
-        {
           "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
           "url": "https://wallstreetcn.com/articles/3760523",
           "source": "华尔街见闻",
@@ -949,8 +938,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时46分 ~ 13时12分]"
+          "appearance_count": 9,
+          "time_info": "[08时46分 ~ 14时17分]"
         },
         {
           "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
@@ -962,8 +951,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时10分 ~ 13时12分]"
+          "appearance_count": 10,
+          "time_info": "[07时10分 ~ 14时17分]"
+        },
+        {
+          "title": "美日政策预期分化，美股指集体高开，金银油回落，加密货币止跌反弹，拍卖需求强劲推高日债",
+          "url": "https://wallstreetcn.com/articles/3760523",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 07时10分]"
         },
         {
           "title": "美股三大期指集体走高 波音盘前涨超3% | 今夜看点",
@@ -1129,8 +1130,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时46分 ~ 13时12分]"
+          "appearance_count": 9,
+          "time_info": "[08时46分 ~ 14时17分]"
         },
         {
           "title": "谷歌揭秘了AI竞赛的底牌",
@@ -1148,6 +1149,18 @@
           "time_info": "[00时14分 ~ 07时10分]"
         },
         {
+          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
+          "url": "https://www.cls.cn/detail/2218001",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时19分 ~ 14时17分]"
+        },
+        {
           "title": "OpenAI拉响最高警报：谷歌模型威胁巨大 全力改进ChatGPT",
           "url": "https://www.cls.cn/detail/2217188",
           "source": "财联社热门",
@@ -1157,18 +1170,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时16分 ~ 05时10分]"
-        },
-        {
-          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
-          "url": "https://www.cls.cn/detail/2218001",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时19分 ~ 13时12分]"
         },
         {
           "title": "面对谷歌的挑战，英伟达和OpenAI谁更脆弱",
