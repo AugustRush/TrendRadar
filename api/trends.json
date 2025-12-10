@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T17:15:50.347994+08:00",
-  "total_titles_processed": 1617,
+  "generated_at": "2025-12-10T18:13:14.589816+08:00",
+  "total_titles_processed": 1687,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 62,
       "titles": [
         {
           "title": "特朗普现在很焦虑",
@@ -44,8 +44,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时14分 ~ 17时15分]"
+          "appearance_count": 21,
+          "time_info": "[00时14分 ~ 18时13分]"
         },
         {
           "title": "特朗普谈俄乌冲突：现在是泽连斯基“开始接受现实”的时候了",
@@ -141,6 +141,31 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时14分 ~ 07时10分]"
+        },
+        {
+          "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
+          "url": "https://www.cls.cn/detail/2225037",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时15分 ~ 18时13分]"
+        },
+        {
+          "title": "失去耐心？特朗普要泽连斯基签下“节前之盟”",
+          "url": "https://news.ifeng.com/c/8oyJa7lvayk",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时15分 ~ 18时13分]"
         },
         {
           "title": "特朗普政府宣布终止拜登时代的学生贷款偿还计划",
@@ -246,18 +271,6 @@
           "time_info": "[02时28分 ~ 05时09分]"
         },
         {
-          "title": "失去耐心？特朗普要泽连斯基签下“节前之盟”",
-          "url": "https://news.ifeng.com/c/8oyJa7lvayk",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时15分 ~ 17时15分]"
-        },
-        {
           "title": "特朗普：泽连斯基要开始接受现实了",
           "url": "https://www.toutiao.com/trending/7581295755181424686/",
           "source": "今日头条",
@@ -280,18 +293,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时24分 ~ 03时29分]"
-        },
-        {
-          "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
-          "url": "https://www.cls.cn/detail/2225037",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时15分 ~ 17时15分]"
         },
         {
           "title": "据消息人士透露，特朗普计划任命国土安全部副部长担任美国驻萨尔瓦多大使，这将是国土安全部领导层结构的一次重大调整。",
@@ -365,6 +366,17 @@
           "time_info": "[05时09分 ~ 06时43分]"
         },
         {
+          "title": "特朗普继续数落欧洲，默茨：要做好“欧美不同行”的准备",
+          "url": "https://news.ifeng.com/c/8oySvvFnvcj",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 18时13分]"
+        },
+        {
           "title": "美国贸易代表格里尔：美国总统特朗普政府已明确告知南非，如果南非希望改善关税待遇，就必须解决贸易壁垒问题。",
           "url": "https://flash.jin10.com/detail/20251210060922610800",
           "source": "金十数据",
@@ -399,6 +411,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时13分 ~ 14时17分]"
+        },
+        {
+          "title": "特朗普要搞“美联储主席最终面试”，哈塞特尚未“板上钉钉”，贝森特仍有望后续接任？",
+          "url": "https://wallstreetcn.com/articles/3761053",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 18时13分]"
         },
         {
           "title": "美国总统特朗普将于本周启动美联储主席人选的最后一轮面试。",
@@ -1086,8 +1109,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时48分 ~ 17时15分]"
+          "appearance_count": 12,
+          "time_info": "[08时48分 ~ 18时13分]"
         },
         {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
@@ -1146,7 +1169,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
