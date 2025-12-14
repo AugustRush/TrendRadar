@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T20:18:01.493895+08:00",
-  "total_titles_processed": 1284,
+  "generated_at": "2025-12-14T21:21:18.442264+08:00",
+  "total_titles_processed": 1363,
   "failed_sources": [],
   "trends": [
     {
@@ -208,8 +208,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时17分 ~ 20时18分]"
+          "appearance_count": 3,
+          "time_info": "[20时17分 ~ 21时21分]"
         },
         {
           "title": "特朗普：希望利率在一年内降至1%或更低",
@@ -543,6 +543,23 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "10月净买入49吨！央行购金依然强劲，高盛：“代币化黄金”目前还非金价主力",
+          "url": "https://wallstreetcn.com/articles/3761367",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -557,8 +574,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时12分 ~ 20时18分]"
+          "appearance_count": 11,
+          "time_info": "[13时12分 ~ 21时21分]"
         }
       ]
     }
