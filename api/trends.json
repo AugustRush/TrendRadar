@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T20:22:04.953692+08:00",
-  "total_titles_processed": 1945,
+  "generated_at": "2026-01-07T21:32:54.360230+08:00",
+  "total_titles_processed": 2054,
   "failed_sources": [],
   "trends": [
     {
@@ -20,18 +20,6 @@
           "time_info": "[08时50分 ~ 15时16分]"
         },
         {
-          "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
-          "url": "https://www.zhihu.com/question/1991388819304510504",
-          "source": "知乎",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时50分 ~ 20时22分]"
-        },
-        {
           "title": "特朗普：委内瑞拉将向美国移交数千万桶石油",
           "url": "https://news.ifeng.com/c/8piFwnPic7a",
           "source": "凤凰网",
@@ -42,6 +30,32 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[08时50分 ~ 14时17分]"
+        },
+        {
+          "title": "特朗普称美国将从委内瑞拉获得5000万桶石油，外交部：中国在委合法权益必须得到保护",
+          "url": "https://www.cls.cn/detail/2250493",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时18分 ~ 21时32分]"
+        },
+        {
+          "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
+          "url": "https://www.zhihu.com/question/1991388819304510504",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[08时50分 ~ 21时32分]"
         },
         {
           "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
@@ -56,18 +70,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时14分 ~ 08时51分]"
-        },
-        {
-          "title": "特朗普称美国将从委内瑞拉获得5000万桶石油，外交部：中国在委合法权益必须得到保护",
-          "url": "https://www.cls.cn/detail/2250493",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时18分 ~ 20时22分]"
         },
         {
           "title": "“除掉马杜罗”，特朗普早就下了决心",
@@ -100,8 +102,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时52分 ~ 20时22分]"
+          "appearance_count": 14,
+          "time_info": "[10时52分 ~ 21时32分]"
         },
         {
           "title": "曝特朗普对委动手前曾暗示油企高管",
@@ -201,6 +203,17 @@
           "time_info": "[00时14分 ~ 07时11分]"
         },
         {
+          "title": "特朗普的下一步，难了",
+          "url": "https://news.ifeng.com/c/8pj2YQ7rnj3",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时21分 ~ 21时32分]"
+        },
+        {
           "title": "特朗普向印度发出新警告",
           "url": "https://news.ifeng.com/c/8piCojZXRGw",
           "source": "凤凰网",
@@ -214,28 +227,6 @@
           "time_info": "[08时50分 ~ 14时17分]"
         },
         {
-          "title": "特朗普称若输中期选举或被弹劾",
-          "url": "https://www.toutiao.com/trending/7591446002708774921/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时50分 ~ 08时51分]"
-        },
-        {
-          "title": "特朗普的下一步，难了",
-          "url": "https://news.ifeng.com/c/8pj2YQ7rnj3",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 20时22分]"
-        },
-        {
           "title": "WTI原油短线走低，特朗普称委内瑞拉将向美国交付3000-5000万桶石油",
           "url": "https://wallstreetcn.com/articles/3762696",
           "source": "华尔街见闻",
@@ -245,8 +236,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时18分 ~ 20时22分]"
+          "appearance_count": 7,
+          "time_info": "[17时18分 ~ 21时32分]"
+        },
+        {
+          "title": "特朗普称若输中期选举或被弹劾",
+          "url": "https://www.toutiao.com/trending/7591446002708774921/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时50分 ~ 08时51分]"
         },
         {
           "title": "特朗普政府正讨论获取格陵兰岛方案",
@@ -390,6 +392,19 @@
           "time_info": "[05时11分 ~ 06时11分]"
         },
         {
+          "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时11分 ~ 21时32分]"
+        },
+        {
           "title": "特朗普敲打印度",
           "url": "https://www.douyin.com/hot/2358596",
           "source": "抖音",
@@ -402,16 +417,16 @@
           "time_info": "[07时10分 ~ 08时51分]"
         },
         {
-          "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
+          "title": "特朗普称委内瑞拉将向美国移交3000万至5000万桶石油",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32331777",
           "source": "澎湃新闻",
           "ranks": [
-            15,
-            14
+            18,
+            20
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时11分 ~ 20时22分]"
+          "time_info": "[20时21分 ~ 21时32分]"
         },
         {
           "title": "美参院民主党领袖批特朗普对委行动",
@@ -575,17 +590,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时16分 ~ 03时09分]"
-        },
-        {
-          "title": "特朗普称委内瑞拉将向美国移交3000万至5000万桶石油",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32331777",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 20时22分]"
         },
         {
           "title": "特朗普政府正讨论获取格陵兰岛方案",
@@ -1413,8 +1417,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时14分 ~ 20时22分]"
+          "appearance_count": 27,
+          "time_info": "[00时14分 ~ 21时32分]"
         },
         {
           "title": "伊朗警告：可能对敌人进行先发制人的打击",
@@ -1491,7 +1495,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时22分"
         },
@@ -1513,7 +1517,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时22分"
         },
@@ -1524,7 +1528,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时22分"
         },
@@ -1576,7 +1580,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "金价大涨 黄金珠宝行业面临分化",
@@ -1634,7 +1638,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时22分"
         },
@@ -1694,6 +1698,17 @@
           "time_info": "01时15分"
         },
         {
+          "title": "国际金价为何一路狂飙",
+          "url": "https://www.toutiao.com/trending/7591730575850602502/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "大摩看多金价：今年将冲刺4800美元",
           "url": "https://www.toutiao.com/trending/7592535670967504403/",
           "source": "今日头条",
@@ -1708,7 +1723,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美债收益率普遍涨超1个基点",
@@ -1720,6 +1735,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "美债收益率在ADP数据公布后维持早盘跌势；10年期收益率最新下跌3.9个基点，报4.14%。",
+          "url": "https://flash.jin10.com/detail/20260107212025200800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "外媒：黄金或已超越美债，成官方储备第一大资产",
@@ -1739,7 +1765,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时22分"
         },
