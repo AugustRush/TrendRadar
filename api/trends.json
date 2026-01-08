@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T19:12:14.071478+08:00",
-  "total_titles_processed": 1816,
+  "generated_at": "2026-01-08T20:22:18.016798+08:00",
+  "total_titles_processed": 1923,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时57分 ~ 19时12分]"
+          "appearance_count": 14,
+          "time_info": "[11时57分 ~ 20时22分]"
         },
         {
           "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
@@ -80,11 +80,12 @@
             13,
             14,
             15,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时51分 ~ 19时12分]"
+          "appearance_count": 16,
+          "time_info": "[10时51分 ~ 20时22分]"
         },
         {
           "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
@@ -140,6 +141,17 @@
           "time_info": "[13时16分 ~ 16时16分]"
         },
         {
+          "title": "特朗普一口气退出了哪66个国际组织？",
+          "url": "https://news.ifeng.com/c/8pkMcl4Io9K",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时18分 ~ 20时22分]"
+        },
+        {
           "title": "特朗普威胁吞并格陵兰岛，六种棋局推演",
           "url": "https://news.ifeng.com/c/8pk5HcG7PZo",
           "source": "凤凰网",
@@ -183,17 +195,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
-        },
-        {
-          "title": "特朗普一口气退出了哪66个国际组织？",
-          "url": "https://news.ifeng.com/c/8pkMcl4Io9K",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时18分 ~ 19时12分]"
         },
         {
           "title": "特朗普：将禁止大型机构投资者购买更多独栋住宅",
@@ -969,7 +970,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -1123,7 +1124,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -1142,7 +1143,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "英媒称伊朗抗议席卷全国一半省份，至少36人死亡",
@@ -1220,6 +1221,17 @@
           "time_info": "[02时17分 ~ 03时13分]"
         },
         {
+          "title": "媒体称伊朗抗议席卷全国一半省份，至少 36 人死亡，一旦伊朗失控谁是背后赢家？谁失利？",
+          "url": "https://www.zhihu.com/question/1992559906939696772",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时21分 ~ 20时22分]"
+        },
+        {
           "title": "伊朗外长：目前不具备与美谈判条件",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%EF%BC%9A%E7%9B%AE%E5%89%8D%E4%B8%8D%E5%85%B7%E5%A4%87%E4%B8%8E%E7%BE%8E%E8%B0%88%E5%88%A4%E6%9D%A1%E4%BB%B6",
           "source": "百度热搜",
@@ -1281,7 +1293,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -1292,7 +1304,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -1490,7 +1502,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         }
@@ -1672,8 +1684,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时51分 ~ 19时12分]"
+          "appearance_count": 17,
+          "time_info": "[08时51分 ~ 20时22分]"
         },
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，贵金属回落",
