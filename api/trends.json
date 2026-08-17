@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T14:28:18.273172+08:00",
-  "total_titles_processed": 974,
+  "generated_at": "2026-08-17T16:29:40.247765+08:00",
+  "total_titles_processed": 1120,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
@@ -34,11 +34,12 @@
           "url": "https://news.ifeng.com/c/8vehnvg4TOJ",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时30分 ~ 14时28分]"
+          "appearance_count": 5,
+          "time_info": "[08时30分 ~ 16时29分]"
         },
         {
           "title": "航母被曝大丑闻，美州长：特朗普的回应让我非常愤怒",
@@ -48,8 +49,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时30分 ~ 14时28分]"
+          "appearance_count": 5,
+          "time_info": "[08时30分 ~ 16时29分]"
         },
         {
           "title": "沙土巴三国签署共同防务协议，特朗普发声",
@@ -74,6 +75,19 @@
           "time_info": "08时30分"
         },
         {
+          "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
+          "url": "https://wallstreetcn.com/articles/3779545",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时30分 ~ 16时29分]"
+        },
+        {
           "title": "特朗普：我和金正恩关系好，将大幅削减美韩军演规模",
           "url": "https://news.ifeng.com/c/8vePFPF1e1S",
           "source": "凤凰网",
@@ -94,18 +108,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
-        },
-        {
-          "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
-          "url": "https://wallstreetcn.com/articles/3779545",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时30分 ~ 14时28分]"
         },
         {
           "title": "特朗普再促参议院通过全年采用夏令时法案",
@@ -204,6 +206,18 @@
           "time_info": "[06时09分 ~ 07时10分]"
         },
         {
+          "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
+          "url": "https://www.zhihu.com/question/2072595818725336495",
+          "source": "知乎",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时30分 ~ 16时29分]"
+        },
+        {
           "title": "哈马斯方面表示，我们高度评价特朗普在促成加沙停火协议方面发挥的作用。",
           "url": "https://flash.jin10.com/detail/20260817031430338800",
           "source": "金十数据",
@@ -241,18 +255,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时08分 ~ 06时09分]"
-        },
-        {
-          "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
-          "url": "https://www.zhihu.com/question/2072595818725336495",
-          "source": "知乎",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时30分 ~ 14时28分]"
         },
         {
           "title": "特朗普为何要求航母改回蒸汽弹射",
@@ -404,7 +406,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         },
@@ -429,12 +431,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
+        },
+        {
+          "title": "特朗普缩减美韩联合军演规模会威胁中朝关系吗？外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3150337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 30,
+      "match_count": 38,
       "titles": [
         {
           "title": "伊朗高层换血，革命卫队更强势了？",
@@ -495,8 +508,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时30分 ~ 14时28分]"
+          "appearance_count": 5,
+          "time_info": "[08时30分 ~ 16时29分]"
+        },
+        {
+          "title": "伊朗称正在起草与阿曼的海上航线计划",
+          "url": "https://wallstreetcn.com/livenews/3150377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         },
         {
           "title": "伊朗称美军已被驱逐不得进入海峡",
@@ -569,7 +593,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         },
@@ -651,6 +675,17 @@
           "time_info": "[04时08分 ~ 06时09分]"
         },
         {
+          "title": "伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态？",
+          "url": "https://www.zhihu.com/question/2072617673721226019",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 16时29分]"
+        },
+        {
           "title": "伊朗军方：每名入境美军悬赏50亿土曼",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%86%9B%E6%96%B9%EF%BC%9A%E6%AF%8F%E5%90%8D%E5%85%A5%E5%A2%83%E7%BE%8E%E5%86%9B%E6%82%AC%E8%B5%8F50%E4%BA%BF%E5%9C%9F%E6%9B%BC",
           "source": "百度热搜",
@@ -685,15 +720,15 @@
           "time_info": "02时11分"
         },
         {
-          "title": "伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态？",
-          "url": "https://www.zhihu.com/question/2072617673721226019",
-          "source": "知乎",
+          "title": "伊朗外交部发言人巴加埃：伊朗将主办里海沿岸国家会议。",
+          "url": "https://flash.jin10.com/detail/20260817160907045800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时28分"
+          "time_info": "16时29分"
         },
         {
           "title": "伊朗总统：伊美谅解备忘录“维护尊严、展现实力”",
@@ -713,7 +748,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         },
@@ -727,6 +762,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：很遗憾，美国屡屡背弃承诺，正如先前在阿曼问题上所发生的那样，此次也使巴基斯坦的调解角色受到了损害。",
+          "url": "https://flash.jin10.com/detail/20260817160625266800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         },
         {
           "title": "据半岛电视台：伊朗总统表示，在国内制造分歧的人必须意识到，这只会对美国和以色列有利。",
@@ -751,6 +797,17 @@
           "time_info": "02时11分"
         },
         {
+          "title": "伊朗外交部发言人巴加埃：伊朗与巴基斯坦作为两个邻国，双边往来仍在继续。巴基斯坦正努力利用自身能力在伊朗与美国之间进行调解。",
+          "url": "https://flash.jin10.com/detail/20260817160604537800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
           "title": "据沙特官方通讯社，吉赞地区已启动空袭警报。 此前，据伊朗塔斯尼姆通讯社称，沙特阿拉伯吉赞炼油厂附近传出爆炸声。",
           "url": "https://flash.jin10.com/detail/20260816210430822800",
           "source": "金十数据",
@@ -760,6 +817,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：伊朗将扩大与阿富汗的经济和商业关系。",
+          "url": "https://flash.jin10.com/detail/20260817160544779800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
+          "title": "伊朗：仍在与阿曼就霍尔木兹海峡问题进行密集磋商",
+          "url": "https://wallstreetcn.com/livenews/3150348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：伊朗不会忘记侵略者在米纳布、拉默尔德和格什姆岛犯下的罪行。",
+          "url": "https://flash.jin10.com/detail/20260817160529057800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         },
         {
           "title": "伊朗议会通过反渗透法案",
@@ -779,7 +869,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         },
@@ -793,12 +883,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
+        },
+        {
+          "title": "伊朗称美国违反谅解备忘录 导致60天谈判期失去意义",
+          "url": "https://wallstreetcn.com/livenews/3150341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "DeepSeek正式涨价",
@@ -806,11 +907,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            7
+            7,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时30分 ~ 14时28分]"
+          "appearance_count": 4,
+          "time_info": "[12时30分 ~ 16时29分]"
         },
         {
           "title": "DeepSeek正式涨价",
@@ -823,6 +925,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时30分 ~ 12时31分]"
+        },
+        {
+          "title": "DeepSeek 新定价已生效，实际体验下来你的感受如何？跟你预想的差异大吗？",
+          "url": "https://www.zhihu.com/question/2072598571090538898",
+          "source": "知乎",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 16时29分]"
         },
         {
           "title": "博主：DeepSeek要当全球Agent的底座",
@@ -858,21 +972,21 @@
           "time_info": "08时30分"
         },
         {
-          "title": "DeepSeek 新定价已生效，实际体验下来你的感受如何？跟你预想的差异大吗？",
-          "url": "https://www.zhihu.com/question/2072598571090538898",
+          "title": "DeepSeek Harness 有什么好用的插件？",
+          "url": "https://www.zhihu.com/question/2071617281214378127",
           "source": "知乎",
           "ranks": [
-            12
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时28分"
+          "time_info": "16时29分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -929,11 +1043,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时30分 ~ 14时28分]"
+          "appearance_count": 4,
+          "time_info": "[12时30分 ~ 16时29分]"
         },
         {
           "title": "OpenAI 人事地震",
@@ -945,6 +1060,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时30分 ~ 12时31分]"
+        },
+        {
+          "title": "OpenAI CEO：大学读两年就够了",
+          "url": "https://www.baidu.com/s?wd=OpenAI+CEO%EF%BC%9A%E5%A4%A7%E5%AD%A6%E8%AF%BB%E4%B8%A4%E5%B9%B4%E5%B0%B1%E5%A4%9F%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         }
       ]
     },
@@ -994,6 +1120,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "美债逼近40万亿，美银Hartnett：做多黄金是当下最优解",
+          "url": "https://wallstreetcn.com/articles/3779560",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 16时29分]"
+        },
+        {
           "title": "媒体人：美债买卖日本救火中国搬家",
           "url": "https://www.toutiao.com/trending/7674607374035848723/",
           "source": "今日头条",
@@ -1005,24 +1143,13 @@
           "time_info": "[07时09分 ~ 07时10分]"
         },
         {
-          "title": "美债逼近40万亿，美银Hartnett：做多黄金是当下最优解",
-          "url": "https://wallstreetcn.com/articles/3779560",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时28分"
-        },
-        {
           "title": "20年期美债将于本周三拍卖，长端压力是否会升级？",
           "url": "https://flash.jin10.com/detail/20260817135730731800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         }
@@ -1054,6 +1181,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股盘前，存储芯片股普涨，闪迪涨约6%，SK海力士涨约4%，希捷科技涨约3%，西部数据涨约4%，美光科技涨约3%。",
+          "url": "https://wallstreetcn.com/livenews/3150351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数跌0.3%，报99.32。",
+          "url": "https://wallstreetcn.com/livenews/3150340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         }
       ]
     }
